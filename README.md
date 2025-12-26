@@ -85,11 +85,11 @@ applied to **Optical Character Recognition (OCR)** and document digitization.
 
 ## 🧑‍🎓 Project Details
 - **Project Title:** EMNIST Mathematical Model
-- **Student Name:** Vignesh Raaj
-- **Register Number:** 212223230239
+- **Student Name:** Mohamed Sulthan A
+- **Register Number:** 212223230125
 - **Department:** Artificial Intelligence and Data Science (AIDS)
 - **Institution:** Saveetha Engineering College
-- **Project Guide:** Swedha V
+- **Project Guide:** Jayanthi G
 
 ---
 
