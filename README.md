@@ -51,6 +51,8 @@ applied to **Optical Character Recognition (OCR)** and document digitization.
 - The model achieves good accuracy in recognizing handwritten alphabets
 - CNN effectively extracts features like edges and curves
 - The system performs well on unseen handwritten samples
+- <img width="1024" height="1536" alt="ChatGPT Image Dec 26, 2025, 12_03_31 PM" src="https://github.com/user-attachments/assets/9223757d-d4df-4df5-bcbb-07f075e6796e" />
+
 
 ---
 
